@@ -1,0 +1,23 @@
+c:\users\amanda\documents\visual studio 2013\Projects\TamuCourseCheck\TamuCourseCheck\bin\Debug\TamuCourseCheck.exe.config
+c:\users\amanda\documents\visual studio 2013\Projects\TamuCourseCheck\TamuCourseCheck\bin\Debug\chromedriver.exe
+c:\users\amanda\documents\visual studio 2013\Projects\TamuCourseCheck\TamuCourseCheck\bin\Debug\TamuCourseCheck.exe
+c:\users\amanda\documents\visual studio 2013\Projects\TamuCourseCheck\TamuCourseCheck\bin\Debug\TamuCourseCheck.pdb
+c:\users\amanda\documents\visual studio 2013\Projects\TamuCourseCheck\TamuCourseCheck\bin\Debug\nunit.framework.dll
+c:\users\amanda\documents\visual studio 2013\Projects\TamuCourseCheck\TamuCourseCheck\bin\Debug\WebDriver.dll
+c:\users\amanda\documents\visual studio 2013\Projects\TamuCourseCheck\TamuCourseCheck\bin\Debug\nunit.framework.xml
+c:\users\amanda\documents\visual studio 2013\Projects\TamuCourseCheck\TamuCourseCheck\bin\Debug\WebDriver.xml
+c:\users\amanda\documents\visual studio 2013\Projects\TamuCourseCheck\TamuCourseCheck\obj\Debug\TamuCourseCheck.csprojResolveAssemblyReference.cache
+c:\users\amanda\documents\visual studio 2013\Projects\TamuCourseCheck\TamuCourseCheck\obj\Debug\TamuCourseCheck.exe
+c:\users\amanda\documents\visual studio 2013\Projects\TamuCourseCheck\TamuCourseCheck\obj\Debug\TamuCourseCheck.pdb
+C:\Users\Amanda\Documents\TamuCourseCheck\TamuCourseCheck\TamuCourseCheck\bin\Debug\chromedriver.exe
+C:\Users\Amanda\Documents\TamuCourseCheck\TamuCourseCheck\TamuCourseCheck\bin\Debug\TamuCourseCheck.exe.config
+C:\Users\Amanda\Documents\TamuCourseCheck\TamuCourseCheck\TamuCourseCheck\bin\Debug\TamuCourseCheck.exe
+C:\Users\Amanda\Documents\TamuCourseCheck\TamuCourseCheck\TamuCourseCheck\bin\Debug\TamuCourseCheck.pdb
+C:\Users\Amanda\Documents\TamuCourseCheck\TamuCourseCheck\TamuCourseCheck\bin\Debug\MySql.Data.dll
+C:\Users\Amanda\Documents\TamuCourseCheck\TamuCourseCheck\TamuCourseCheck\bin\Debug\nunit.framework.dll
+C:\Users\Amanda\Documents\TamuCourseCheck\TamuCourseCheck\TamuCourseCheck\bin\Debug\WebDriver.dll
+C:\Users\Amanda\Documents\TamuCourseCheck\TamuCourseCheck\TamuCourseCheck\bin\Debug\nunit.framework.xml
+C:\Users\Amanda\Documents\TamuCourseCheck\TamuCourseCheck\TamuCourseCheck\bin\Debug\WebDriver.xml
+C:\Users\Amanda\Documents\TamuCourseCheck\TamuCourseCheck\TamuCourseCheck\obj\Debug\TamuCourseCheck.csprojResolveAssemblyReference.cache
+C:\Users\Amanda\Documents\TamuCourseCheck\TamuCourseCheck\TamuCourseCheck\obj\Debug\TamuCourseCheck.exe
+C:\Users\Amanda\Documents\TamuCourseCheck\TamuCourseCheck\TamuCourseCheck\obj\Debug\TamuCourseCheck.pdb
